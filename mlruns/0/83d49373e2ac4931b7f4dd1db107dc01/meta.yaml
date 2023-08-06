@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/83d49373e2ac4931b7f4dd1db107dc01/artifacts
+end_time: 1691332263617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83d49373e2ac4931b7f4dd1db107dc01
+run_name: intelligent-mule-416
+run_uuid: 83d49373e2ac4931b7f4dd1db107dc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332253880
+status: 3
+tags: []
+user_id: shree

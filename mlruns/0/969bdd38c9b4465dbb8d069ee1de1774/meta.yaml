@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/969bdd38c9b4465dbb8d069ee1de1774/artifacts
+end_time: 1691332301305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 969bdd38c9b4465dbb8d069ee1de1774
+run_name: fearless-flea-244
+run_uuid: 969bdd38c9b4465dbb8d069ee1de1774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332291498
+status: 3
+tags: []
+user_id: shree

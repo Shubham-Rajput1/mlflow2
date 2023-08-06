@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/1c6fbaf1103048368e20d4031898e00e/artifacts
+end_time: 1691332169908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c6fbaf1103048368e20d4031898e00e
+run_name: stylish-skink-513
+run_uuid: 1c6fbaf1103048368e20d4031898e00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332156906
+status: 3
+tags: []
+user_id: shree

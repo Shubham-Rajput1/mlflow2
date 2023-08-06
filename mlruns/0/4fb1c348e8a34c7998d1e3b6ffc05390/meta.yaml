@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/4fb1c348e8a34c7998d1e3b6ffc05390/artifacts
+end_time: 1691329534877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb1c348e8a34c7998d1e3b6ffc05390
+run_name: bald-yak-636
+run_uuid: 4fb1c348e8a34c7998d1e3b6ffc05390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691329521735
+status: 3
+tags: []
+user_id: shree

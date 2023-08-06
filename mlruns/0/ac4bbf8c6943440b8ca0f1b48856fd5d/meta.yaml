@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/ac4bbf8c6943440b8ca0f1b48856fd5d/artifacts
+end_time: 1691332034867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac4bbf8c6943440b8ca0f1b48856fd5d
+run_name: stately-robin-735
+run_uuid: ac4bbf8c6943440b8ca0f1b48856fd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332033085
+status: 4
+tags: []
+user_id: shree

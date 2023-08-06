@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/3bc22a518db14c1bb2f48114c3b1b7ed/artifacts
+end_time: 1691332011663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bc22a518db14c1bb2f48114c3b1b7ed
+run_name: sassy-gnat-585
+run_uuid: 3bc22a518db14c1bb2f48114c3b1b7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332001378
+status: 3
+tags: []
+user_id: shree

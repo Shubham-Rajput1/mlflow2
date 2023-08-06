@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/db10fc9e18364a6b97220d4a80796807/artifacts
+end_time: 1691332046406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db10fc9e18364a6b97220d4a80796807
+run_name: lyrical-mole-349
+run_uuid: db10fc9e18364a6b97220d4a80796807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332045291
+status: 4
+tags: []
+user_id: shree

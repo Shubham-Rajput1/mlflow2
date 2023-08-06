@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/731dc26e372d48b693a1f6103c03e621/artifacts
+end_time: 1691332125285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 731dc26e372d48b693a1f6103c03e621
+run_name: learned-cat-904
+run_uuid: 731dc26e372d48b693a1f6103c03e621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332122957
+status: 4
+tags: []
+user_id: shree

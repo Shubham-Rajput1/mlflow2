@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/mlflow/mlruns/0/c7e42561a0e74974bb9db01579777bce/artifacts
+end_time: 1691332245180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7e42561a0e74974bb9db01579777bce
+run_name: classy-bass-49
+run_uuid: c7e42561a0e74974bb9db01579777bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691332236898
+status: 3
+tags: []
+user_id: shree
